@@ -1,0 +1,22 @@
+Added Component: Designator=U1(QFN20)
+Added Pin To Net: NetName=NRF_CE Pin=U1-1
+Added Pin To Net: NetName=NRF_CSN Pin=U1-2
+Added Pin To Net: NetName=NRF_SCK Pin=U1-3
+Added Pin To Net: NetName=NRF_MOSI Pin=U1-4
+Added Pin To Net: NetName=NRF_MISO Pin=U1-5
+Added Pin To Net: NetName=NRF_IRQ Pin=U1-6
+Added Pin To Net: NetName=3.3V Pin=U1-7
+Added Pin To Net: NetName=N_GND Pin=U1-8
+Added Pin To Net: NetName=XC2 Pin=U1-9
+Added Pin To Net: NetName=XC1 Pin=U1-10
+Added Pin To Net: NetName=NetC5_2 Pin=U1-11
+Added Pin To Net: NetName=NetU1_12 Pin=U1-12
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Pin To Net: NetName=N_GND Pin=U1-14
+Added Pin To Net: NetName=3.3V Pin=U1-15
+Added Pin To Net: NetName=NetR1_1 Pin=U1-16
+Added Pin To Net: NetName=N_GND Pin=U1-17
+Added Pin To Net: NetName=3.3V Pin=U1-18
+Added Pin To Net: NetName=NetC1_2 Pin=U1-19
+Added Pin To Net: NetName=N_GND Pin=U1-20
+Added Member To Class: ClassName=Remotor Member=Component U1 NRF24L01
