@@ -1,0 +1,44 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Remotor.PrjPcb|ReportField=ProjectFullPath~I:\Git\My_Fly\PCB\Remotor.PrjPcb|ReportField=Title~Bill of Materials For Project [Remotor.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~83|ReportField=ReportTime~10:08:50|ReportField=ReportDate~2017/10/7|ReportField=ReportDateTime~2017/10/7 10:08:50|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/10/7|ReportField=CurrentTime~10:02:14|ReportField=Date~|ReportField=DocumentFullPathAndName~I:\Git\My_Fly\PCB\Remotor.SchDoc|ReportField=DocumentName~Remotor.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/10/3|ReportField=Organization~|ReportField=ProjectName~Remotor.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Remotor.PrjPcb|ReportField=DataSourceFullPath~I:\Git\My_Fly\PCB\Remotor.PrjPcb
+1|0R|0402|R|1
+2|16M|XTAL3225   无源|XTAL-无源贴片|1
+3|1M|0402|R|1
+4|2.2uF|0402|C|1
+5|221|0402|C|1
+6|222|0402|C|1
+7|223|0402|C|1
+8|2450BM14A0002|0603-6|BALUN|1
+9|2450BP14D0100|BALUN_250BP|BALUN_1|1
+10|333|0402|C|1
+11|49.4K|0402|R|1
+12|49.9K|0402|R|1
+13|750K|0402|R|1
+14|8M|XTAL3215|XTAL-3215|1
+15|BEEP|BELL-5|BEEP|1
+16|HEAD6|SH1.0-6P|HEAD6|1
+17|NRF24L01|QFN20|nrf24xx|1
+18|OLED12864|OLED_0.96|OLED12864|1
+19|RFX2401C|QFN16M|RFX2401C|1
+20|S8050|SOT-23R|NPN|1
+21|SMA-2|SMB|CHIP_ANTENNA|1
+22|STM32F103C8|mTQFP48|STM32F103C6|1
+23|TP4059|SOT-23-6|TP2459|1
+24|USB|MICRO_USB5P_SOP|USB5|1
+25|VBAT|BAT-2|Battery|1
+26|XC6204-3.0|SOT-23-5|RT9193-33|1
+27|单刀双掷|拨动开关DIP|单刀双掷开关|1
+28|方向摇杆|摇杆2|摇杆_1|1
+29|油门摇杆|摇杆2|摇杆|1
+30|103|0402|C|2
+31|22K|0402|R|2
+32|22p|0402|C|2
+33|KEY_L|KEY_M|KEY|2
+34|10R|0402|R|3
+35|10uF|0805|C|3
+36|10uF|C0805 钽电容|CAP|3
+37|1uF|0402|C|3
+38|BLUE|0603|LED|3
+39|0|0402|R|4
+40|10K|0402|R|5
+41|1K|0402|R|5
+42|4.7K|0402|R|6
+43|104|0402|C|11

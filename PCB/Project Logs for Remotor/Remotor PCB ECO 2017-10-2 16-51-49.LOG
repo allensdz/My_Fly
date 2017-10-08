@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC24_1 Pin=OLED1-2
+Removed Pin From Net: NetName=NetC24_2 Pin=OLED1-3
+Change Component Footprint: Designator=C24 Old Footprint=0603P New Footprint=0402
+Added Pin To Net: NetName=NetC24_2 Pin=OLED1-2
+Added Pin To Net: NetName=NetC24_1 Pin=OLED1-3

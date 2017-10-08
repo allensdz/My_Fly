@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetD4_1 Pin=P6-1
+Removed Pin From Net: NetName=+BATT Pin=P6-2
+Removed Pin From Net: NetName=+BATT Pin=P7-1
+Removed Pin From Net: NetName=NetD5_1 Pin=P7-2
+Removed Pin From Net: NetName=NetD6_1 Pin=P8-1
+Removed Pin From Net: NetName=+BATT Pin=P8-2
+Removed Pin From Net: NetName=+BATT Pin=P9-1
+Removed Pin From Net: NetName=NetD7_1 Pin=P9-2
+Change Component Comment : Designator=R12 Old Comment=100K New Comment=10K
+Added Pin To Net: NetName=NetC4_2 Pin=P2-1
+Added Pin To Net: NetName=NetC4_2 Pin=P3-7
+Added Pin To Net: NetName=+BATT Pin=P6-1
+Added Pin To Net: NetName=NetD4_1 Pin=P6-2
+Added Pin To Net: NetName=NetD5_1 Pin=P7-1
+Added Pin To Net: NetName=+BATT Pin=P7-2
+Added Pin To Net: NetName=+BATT Pin=P8-1
+Added Pin To Net: NetName=NetD6_1 Pin=P8-2
+Added Pin To Net: NetName=NetD7_1 Pin=P9-1
+Added Pin To Net: NetName=+BATT Pin=P9-2
+Change Net Name : Old Net Name=NetC4_2 New Net Name=VUSB
